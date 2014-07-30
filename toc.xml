@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Arthmael" APIVersion="9" Name="Naa" Description="naa - Nexus Alts Anonymous">
+    <Script Name="libs/GeminiAddon.lua"/>
+    <Script Name="libs/GeminiDB-1.0.lua"/>
+    <Script Name="libs/LibApolloFixes-1.0/LibApolloFixes-1.0.lua"/>
+    <Script Name="libs/GeminiGUI.lua"/>
+    <Script Name="Naa.lua"/>
+    <Form Name="Naa.xml"/>
+</Addon>
